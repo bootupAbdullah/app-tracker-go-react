@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/akd_dev/Programming/portfolio_projetcs/bootcamp_projects_for_display/portfolio_project_3_application_tracker/backend/ApplicationTracker/ApplicationTracker.csproj": {}
+    "/Users/akd_dev/Programming/portfolio_projetcs/GO_projects/app-tracker-go-react/backend/ApplicationTracker/ApplicationTracker.csproj": {}
   },
   "projects": {
-    "/Users/akd_dev/Programming/portfolio_projetcs/bootcamp_projects_for_display/portfolio_project_3_application_tracker/backend/ApplicationTracker/ApplicationTracker.csproj": {
+    "/Users/akd_dev/Programming/portfolio_projetcs/GO_projects/app-tracker-go-react/backend/ApplicationTracker/ApplicationTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/akd_dev/Programming/portfolio_projetcs/bootcamp_projects_for_display/portfolio_project_3_application_tracker/backend/ApplicationTracker/ApplicationTracker.csproj",
+        "projectUniqueName": "/Users/akd_dev/Programming/portfolio_projetcs/GO_projects/app-tracker-go-react/backend/ApplicationTracker/ApplicationTracker.csproj",
         "projectName": "ApplicationTracker",
-        "projectPath": "/Users/akd_dev/Programming/portfolio_projetcs/bootcamp_projects_for_display/portfolio_project_3_application_tracker/backend/ApplicationTracker/ApplicationTracker.csproj",
+        "projectPath": "/Users/akd_dev/Programming/portfolio_projetcs/GO_projects/app-tracker-go-react/backend/ApplicationTracker/ApplicationTracker.csproj",
         "packagesPath": "/Users/akd_dev/.nuget/packages/",
-        "outputPath": "/Users/akd_dev/Programming/portfolio_projetcs/bootcamp_projects_for_display/portfolio_project_3_application_tracker/backend/ApplicationTracker/obj/",
+        "outputPath": "/Users/akd_dev/Programming/portfolio_projetcs/GO_projects/app-tracker-go-react/backend/ApplicationTracker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/akd_dev/.nuget/NuGet/NuGet.Config"
@@ -32,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -46,7 +40,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -60,20 +54,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.16, 8.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[8.0.16, 8.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.16, 8.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.17/libexec/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

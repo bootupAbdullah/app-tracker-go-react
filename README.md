@@ -172,3 +172,12 @@ As of June 24, 2025, the core MVP for the Application Tracker has been completed
 
 This version represents a stable, fully functional job application tracking system with core CRUD workflow. Update functionality is planned for future iterations.
 
+# Meeting Notes, July 1st, 2025:
+
+### - Set Up Project board
+<br />
+
+# Focus Points: 
+### 1. What is a good use of our time?
+### 2. Learn Go.
+### 3. Create a portfolio project utilizing Go.
